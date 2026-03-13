@@ -1,0 +1,3 @@
+Type,ID,Owner,Balance,Extra
+SavingsAccount,1000,Andrea,1044.66,0.01
+CheckingAccount,1001,Ysabela,300.00,5.0
