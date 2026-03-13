@@ -163,12 +163,10 @@ The app displays clear dialog messages for invalid input and operational issues,
 
 ## Known Notes
 
-- Transaction file name is currently `transactionss.txt` (double `s`) by design in the existing code.
 - Data is stored in plain text/CSV-like format under `src/Files`.
 
 ## Future Improvements
 
-- Rename transaction file to `transactions.txt` (with migration handling)
 - Optional database storage (SQLite/MySQL)
 - Authentication and user roles
 - Printable account statements

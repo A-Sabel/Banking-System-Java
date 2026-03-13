@@ -40,7 +40,7 @@ public class BankingGUI extends JFrame {
     private JTextField accountSearchField;
     private static final int MAX_HISTORY = 15;
     private static final File ACCOUNTS_FILE = new File("src/Files/accounts.txt");
-    private static final File TRANSACTIONS_FILE = new File("src/Files/transactionss.txt");
+    private static final File TRANSACTIONS_FILE = new File("src/Files/transactions.txt");
     
     private static final Color PRIMARY_COLOR = new Color(41, 128, 185);
     private static final Color SECONDARY_COLOR = new Color(52, 152, 219);
